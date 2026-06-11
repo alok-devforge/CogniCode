@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+.env
+backend/.env
+backend/error_log.txt
+backend/test_results.txt
+backend/chroma_data/
+backend/chroma_data/*
+
+# Node/Next.js
+node_modules/
+.next/
+out/
+build/
+*.tsbuildinfo
+next-env.d.ts
+
+# OS files
+.DS_Store
+Thumbs.db
