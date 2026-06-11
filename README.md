@@ -1,5 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/AcmwgnIU)
-
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/Version-3.1-blue?style=for-the-badge" alt="Version" />
@@ -52,14 +50,6 @@ Engineering teams inherit massive codebases with zero documentation, make "safe"
 ### 5. Bidirectional Sync
 <img src="./assets/images/bidirectional-sync.png" width="100%" alt="Bidirectional Sync" />
 
-### 6. RAG Knowledge Engine
-<img src="./assets/images/rag-engine.png" width="100%" alt="RAG Engine" />
-
-### 7. Stress Testing
-<img src="./assets/images/stress-test.png" width="100%" alt="Stress Testing" />
-
-### 8. Landing Page
-<img src="./assets/images/landing.png" width="100%" alt="Landing Page" />
 
 ---
 
