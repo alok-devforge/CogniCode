@@ -167,7 +167,7 @@ CogniCode/
 
 ---
 
-## Supported Languages
+## Languages Used
 
 Python · TypeScript · JavaScript · Go · Rust · Java · C/C++ · C# · Ruby · PHP · Swift · Kotlin · Dart
 
