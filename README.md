@@ -1,14 +1,21 @@
 <div align="center">
 
-# CogniCode
+# 🧠 CogniCode
 
 **AI-Powered Codebase Intelligence Platform**
 
-[![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)](/) [![Version](https://img.shields.io/badge/Version-3.1-blue?style=flat-square)](/) [![License](https://img.shields.io/badge/License-MIT-purple?style=flat-square)](/)
+Understand any codebase in minutes, not months.
 
-</div>
+[![Version](https://img.shields.io/badge/Version-1.0-blue?style=flat-square)](/)
+[![License](https://img.shields.io/badge/License-MIT-purple?style=flat-square)](/)
+[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)](/)
+[![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=next.js&logoColor=white)](/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square)](/)
 
----
+[Quick Start](#getting-started) · [Features](#features) · [Screenshots](#screenshots) · [Architecture](#architecture)
+
+<br/>
+
 
 ## The Problem
 
