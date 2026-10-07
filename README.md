@@ -1,8 +1,6 @@
 <div align="center">
 
-# 🧠 CogniCode
-
-**AI-Powered Codebase Intelligence Platform**
+# 🧠 CogniCode — AI-Powered Codebase Intelligence Platform
 
 Understand any codebase in minutes, not months.
 
