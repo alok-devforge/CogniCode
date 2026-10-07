@@ -4,13 +4,34 @@
 
 Understand any codebase in minutes, not months.
 
-[![Version](https://img.shields.io/badge/Version-1.0-blue?style=flat-square)](/)
+
+[![Version](https://img.shields.io/badge/Version-3.1-blue?style=flat-square)](/)
 [![License](https://img.shields.io/badge/License-MIT-purple?style=flat-square)](/)
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat-square&logo=python&logoColor=white)](/)
 [![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=next.js&logoColor=white)](/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square)](/)
 
-<br/>
+
+
+</div>
+
+---
+
+## 📖 About
+
+**CogniCode** is a developer dashboard that helps teams understand, change, and stress-test large codebases with confidence. It combines real-time AST analysis, LLM reasoning, and a vector-based knowledge engine, so you can open an undocumented repo and quickly see how it's built, what's risky, and what a change will break.
+
+## ✨ Highlights
+
+- 🏛️ **Legacy Archeologist:** auto-generates architecture blueprints from undocumented code
+- 💥 **Blast Radius Graph:** click any module to see what breaks, color-coded by severity
+- 🗺️ **Risk Map & Quality Gate:** score every file and scan the whole codebase in one click
+- 🔄 **Bidirectional Sync:** keep code and docs in step, with live drift detection
+- 🔍 **RAG Knowledge Engine:** ask questions in plain English, get answers with file citations
+- 🧪 **Stress Testing & Traffic Simulator:** find bottlenecks before production does
+- 🌿 **GitOps Sandbox:** experiment on ephemeral branches, then merge or auto-abort
+
+---
 
 
 ## The Problem
