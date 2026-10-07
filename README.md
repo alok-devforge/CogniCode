@@ -10,8 +10,6 @@ Understand any codebase in minutes, not months.
 [![Next.js](https://img.shields.io/badge/Next.js-16-000000?style=flat-square&logo=next.js&logoColor=white)](/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square)](/)
 
-[Quick Start](#getting-started) · [Features](#features) · [Screenshots](#screenshots) · [Architecture](#architecture)
-
 <br/>
 
 
